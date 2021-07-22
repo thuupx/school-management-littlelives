@@ -48,7 +48,7 @@
     "sheetjs": "^2.0.0",
     "swagger-ui-express": "^4.1.4",
     "typeorm": "^0.2.25",
-    "xlsx": "^0.16.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
