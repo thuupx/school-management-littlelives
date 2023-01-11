@@ -38,7 +38,7 @@
     "dotenv": "^8.2.0",
     "export-to-csv": "^0.2.1",
     "faker": "^4.1.0",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "pg": "^8.2.1",
